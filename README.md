@@ -17,11 +17,12 @@
 >  **Tips:** 合理设置抓取程序的访问频率、超时时间  
 >  
 ### 3.调用三方API进行翻译
-> pip install googletrans==4.0.0rc1  
+> pip install googletrans==4.0.0rc1
 > 使用google\百度 API翻译，需要注册API key  
 
 ### 其他工具
 +  本地谷歌浏览器安装目录：C:\Program Files\Google\Chrome\Application
 +  取到目录 "119.0.6045.160" 就是你现在本地谷歌浏览器的版本
 +  只取版本最前面的 "119", 跳转到链接 "https://googlechromelabs.github.io/chrome-for-testing/LATEST_RELEASE_119", 返回的文本内容 "119.0.6045.105" 就是 `driver 版本`。
-+ （4）下载Chromedriver.exe链接："https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win64/chromedriver-win64.zip"。
++  下载Chromedriver.exe链接："https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win64/chromedriver-win64.zip"。
+  
