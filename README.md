@@ -2,7 +2,7 @@
 ### 1.浏览网页，分析网页结构
 > 网页地址：https://medium.com/tag/software-engineering/archive  
 > 利用google开发者工具copy相应内容标签的selector或者xpath  
-> 比如，文章标题的element xpath：**//*[@id="root"]/div/div[3]/div[2]/div/div[4]/div/div[3]/div[1]/div/article/div/div/div/div/div[2]**
+> 比如，文章标题的element xpath：**//*[@id="root"]/div/div[3]/div[2]/div/div[4]/div/div[3]/div[1]/div/article/div/div/div/div/div[2]**  
 > 点赞数对应的element xpath： **//*[@id="root"]/div/div[3]/div[2]/div/div[4]/div/div[3]/div[1]/div/article/div/div/div/div/div[3]/div/div[1]**  
 >  
 > **Tips:** 网页结构可能随时发生变化，导致抓取的代码无法正常运行。所以需要定期检查网页结构，并更新抓取代码。  
