@@ -1,6 +1,6 @@
 # TFMediumBlogCrawling
 ## 1.浏览网页，分析网页结构
-### 网页地址：https://medium.com/tag/software-engineering/archive
+> 网页地址：https://medium.com/tag/software-engineering/archive
 ### 利用google开发者工具copy相应内容标签的selector或者xpath
 ### 比如，文章标题的element xpath：//*[@id="root"]/div/div[3]/div[2]/div/div[4]/div/div[3]/div[1]/div/article/div/div/div/div/div[2]
 ### 点赞数对应的element xpath：//*[@id="root"]/div/div[3]/div[2]/div/div[4]/div/div[3]/div[1]/div/article/div/div/div/div/div[3]/div/div[1]
